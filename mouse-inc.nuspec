@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mouse-inc</id>
+    <version>2.10.21</version>
+    <title>MouseInc (Portable)</title>
+    <authors>shuax</authors>
+    <owners>anjia0532</owners>
+    <iconUrl>https://shuax.com/wp-content/uploads/2017/06/logo_white@3x-1.png</iconUrl>
+    <projectSourceUrl>https://shuax.com/project/mouseinc/</projectSourceUrl>
+    <projectUrl>https://github.com/anjia0532/mouse-inc-choco</projectUrl>
+    <docsUrl>https://docs.shuax.com/MouseInc/#/</docsUrl>
+    <bugTrackerUrl>https://github.com/anjia0532//mouse-inc-choco/issues/new</bugTrackerUrl>
+    <licenseUrl>https://docs.shuax.com/MouseInc/#/#%E7%AE%80%E4%BB%8B</licenseUrl>
+    <tags>MouseInc StrokeIt WGestures</tags>
+    <summary>A Mouse gesture for Windows</summary>
+    <description>MouseInc Is a mouse gesture program. It allows you to perform specific operations by typing your mouse. </description>
+    
+    <releaseNotes>
+    ### 2.10.21 2020年5月30日
+    - 继续优化多显示器支持
+    - Alt拖拽移动窗口修改为中键
+    </releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
