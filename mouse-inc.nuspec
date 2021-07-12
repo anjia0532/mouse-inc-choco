@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>mouse-inc</id>
-    <version>2.10.21</version>
+    <version>2.11.2</version>
     <title>MouseInc (Portable)</title>
     <authors>shuax</authors>
     <owners>anjia0532</owners>
@@ -17,9 +17,13 @@
     <description>MouseInc Is a mouse gesture program. It allows you to perform specific operations by typing your mouse. </description>
     
     <releaseNotes>
-    ### 2.10.21 2020年5月30日
-    - 继续优化多显示器支持
-    - Alt拖拽移动窗口修改为中键
+      ### 2.11.2 2021年7月9日
+      - 分离快速复制、快速粘贴选项
+      - 手势颜色增加随机颜色
+      - 手势文字增加大小和位置设置
+      ### 2.10.21 2020年5月30日
+      - 继续优化多显示器支持
+      - Alt拖拽移动窗口修改为中键
     </releaseNotes>
   </metadata>
   <files>

@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop'; # stop on all errors
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$url        = 'https://dl.shuax.com/MouseInc2.10.21.7z'
+$url        = 'https://update.shuax.com/MouseInc2.11.2.7z'
 
 
 $installDir = "$toolsDir\mouseInc"
